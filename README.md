@@ -20,7 +20,7 @@ This project allows administrators and users to securely upload, organize, searc
 
 ### Analytics
 
-![Analytics](images/analytics.png)
+![Analytics](images/Analytics.png)
 
 ## ✨ Features
 
