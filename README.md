@@ -8,19 +8,19 @@ This project allows administrators and users to securely upload, organize, searc
 
 ### Login Page
 
-![Login](screenshots/login.png)
+![Login](images/login.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ### Folder Management
 
-![Folder](screenshots/folder-management.png)
+![Folder](images/folder-management.png)
 
 ### Upload Document
 
-![Upload](screenshots/upload-document.png)
+![Upload](images/upload-document.png)
 
 ## ✨ Features
 
