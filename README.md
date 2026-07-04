@@ -16,11 +16,11 @@ This project allows administrators and users to securely upload, organize, searc
 
 ### File Mananagement
 
-![File](images/folder-management.png)
+![File](images/file.png)
 
-### Upload Document
+### Analytics
 
-![Upload](images/upload-document.png)
+![Analytics](images/analytics.png)
 
 ## ✨ Features
 
