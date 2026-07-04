@@ -14,9 +14,9 @@ This project allows administrators and users to securely upload, organize, searc
 
 ![Dashboard](images/dashboard.png)
 
-### Folder Management
+### File Mananagement
 
-![Folder](images/folder-management.png)
+![File](images/folder-management.png)
 
 ### Upload Document
 
